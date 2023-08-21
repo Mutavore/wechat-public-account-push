@@ -58,6 +58,7 @@ const USER_CONFIG = {
     courseSchedule: false,
   },
   
+  TIAN_API_KEY
   TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
     key: '933695351fc45b860e142ecc0bb57860',
@@ -80,7 +81,7 @@ const USER_CONFIG = {
   },
 
   PROVINCE: '陕西',
-  CITY: '杨凌',
+  CITY: '咸阳',
 
   USERS: [
     {
