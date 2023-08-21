@@ -80,7 +80,7 @@ const USER_CONFIG = {
   },
 
   PROVINCE: '陕西',
-  CITY: '杨凌区',
+  CITY: '咸阳',
 
   USERS: [
     {
