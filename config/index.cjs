@@ -58,7 +58,6 @@ const USER_CONFIG = {
     courseSchedule: false,
   },
   
-  TIAN_API_KEY
   TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
     key: '933695351fc45b860e142ecc0bb57860',
@@ -71,7 +70,7 @@ const USER_CONFIG = {
     eveningGreeting: true,
   
     // 天行天气（展示未来N天，最多7天）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
-    weather: 3,
+    weather: 0,
   
     // 全网热搜榜（展示N条，最多30条）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
     networkHot: 3,
