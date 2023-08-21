@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'd6888642408c92cd96f5de246fcd7062',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '陕西',
+  CITY: '杨凌',
 
   USERS: [
     {
@@ -25,7 +25,7 @@ const USER_CONFIG = {
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'w04pvcBjTL0UgQjJ3IJk-2QRkMiTIwgX3tgHSzPv3Ns',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '12-27',
+      horoscopeDate: '09-09',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
